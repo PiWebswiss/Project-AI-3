@@ -1,0 +1,29 @@
+Warm-up - task 1
+
+- [x] Plot model curve
+- [x] Compute RSS, R^2
+- [x] Write comment about results
+
+Warm-up - task 2
+
+- [x] Fit a linear regression with the outliers
+- [x] Fit a huber regression with the outliers
+- [x] Fit a linear regression without the outliers
+- [x] Evaluate test MAE scores, check that the last two perform better
+
+House prices analysis
+
+- [x] Perform data cleaning, outliers removal
+- [x] Perform feature encoding
+- [x] Perform feature engineering
+- [x] Split the data
+- [x] Create baseline
+- [x] Create simple, intermediate, complex models
+- [x] Apply regularization, tune model with grid search
+- [x] Compare test MAE scores e.g. bar chart
+- [x] For each model, compute 500 predictions from the test set
+- [x] Save predictions in .csv files with the expected filenames and column names
+
+GitHub repository:
+
+- [ ] Make sure that your GitHub repository includes all the files (see previous units)
