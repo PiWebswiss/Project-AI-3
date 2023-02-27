@@ -26,4 +26,4 @@ House prices analysis
 
 GitHub repository:
 
-- [ ] Make sure that your GitHub repository includes all the files (see previous units)
+- [x] Make sure that your GitHub repository includes all the files (see previous units)
